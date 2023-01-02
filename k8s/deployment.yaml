@@ -11,7 +11,7 @@ metadata:
     role: frontend
     env: demo
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       role: frontend
