@@ -10,7 +10,6 @@ metadata:
   labels:
     role: frontend
     env: demo
-    test: test
 spec:
   replicas: 2
   selector:
